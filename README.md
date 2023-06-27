@@ -3,8 +3,7 @@ Module two challenge
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-To build a web page that shows a portfolio of work samples, so that they can see everything in one place. The reason why I am building this is so I can understand CSS better and how to make it all work better on the page. I learned how to encorporate CSS on the page. 
+To build a web page that shows a portfolio of work samples, so that they can see everything in one place. The reason why I am building this is so I can understand CSS better and how to make it all work better on the page. I learned how to incorporate CSS on the page. 
 
 ## Installation
 

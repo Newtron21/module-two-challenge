@@ -39,7 +39,9 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Credits
 
 I took user story and acceptance criteria from [course](https://courses.bootcampspot.com/courses/3765/assignments/57201?module_item_id=1005764)
-i took coding from image shared from teacher [here](
+i took coding from image shared from teacher  <img width="743" alt="Screenshot 2023-06-28 at 1 44 14 AM" src="https://github.com/Newtron21/module-two-challenge/assets/135561292/703a2ca1-ff39-4819-98fc-24728abab2a2">
+
+
 
 
 ## License

@@ -28,14 +28,17 @@
         </ul>
       </nav>
     </header>
-    <section class="hero">
+    <section class="hero ">
       <p>Here is a bit more about me.</p>
     </section>
     <main>
-      <aside class="about-me" id="about-me">
+      <section class="row justify-center">
+      <div class="column-1">
+      <aside id="about-me">
         <h2>About me:</h2>
       </aside>
-      <section class="about-me">
+      </div>
+      <div class="column-2">
         <article>
           <p>
             Hello my name is Anna Newton. I am taking this class online at the U
@@ -43,12 +46,14 @@
             going to learn.
           </p>
         </article>
-      </section>
-
-      <aside id="work"><h2>Work:</h2></aside>
-      <section>
+      </column>
+    </section>
+    <section class="row justify-center">
+      <div class="column-1">
+      <aside id="work"><h2>Work:</h2></aside></div>
+      <div class="column-2">
         <article>
-          <div class="work">
+          <div class=" row">
             <div
               class="card-1"
               style="background-image: url('./assets/images/Surf.webp')"
@@ -57,9 +62,9 @@
                 href="https://github.com/Newtron21/module-two-challenge"
                 target="_blank"
               >
-                <header>surf report</header>
+                <header>surf report<br>Mern Stack</header>
 
-                <p>MERN Stack</p></a
+                </a
               >
             </div>
 
@@ -71,8 +76,7 @@
                 href="https://github.com/Newtron21/module-two-challenge"
                 target="_blank"
               >
-                <header>LED Wall</header>
-                <p>Node IoT</p>
+                <header>LED Wall<br>Node IoT</header>
               </a>
             </div>
             <div
@@ -83,8 +87,8 @@
                 href="https://github.com/Newtron21/module-two-challenge"
                 target="_blank"
               >
-                <header>Calculator</header>
-                <p>React / javascript / css</p>
+                <header>Calculator <br>React / javascript / css</header>
+                
               </a>
             </div>
             <div
@@ -97,9 +101,7 @@
                 href="https://github.com/Newtron21/module-two-challenge"
                 target="_blank"
               >
-                <header>Pastel puzzels</header>
-
-                <p>Mern Stack</p>
+                <header>Pastel puzzels<br>Mern Stack</header>
               </a>
             </div>
             <div
@@ -110,26 +112,28 @@
                 href="https://github.com/Newtron21/module-two-challenge"
                 target="_blank"
               >
-                <header>Run Buddy</header>
-                <p>HTML/CSS</p>
+                <header>Run Buddy<br>HTML/CSS</header>
+               
               </a>
             </div>
           </div>
         </article>
-      </section>
-
-      <aside id="contact-me"><h4>Contact Me</h4></aside>
-      <section>
-        <article>
-          <ul>
-            <li>
-              Email:
+      </div>
+    </section>
+    <section class="row justify-center">
+      <div class="column-1">
+      <aside id="contact-me"><h2>Contact Me</h2></aside></div>
+        <div class="column-2 ">
+        <article class="row justify-space contact">
+          
+            <p>
               <a href="mailto:annacpnewton@gmail.com">annacpnewton@gmail.com</a>
-            </li>
-            <li>Phone: 801-430-8886</li>
-            <li><a href="https://github.com/Newtron21">GitHub</a></li>
-          </ul>
+            </p>
+            <p><a href="tel:+801-430-8886">801-430-8886</p>
+            <p><a href="https://github.com/Newtron21">GitHub</a></p>
+          
         </article>
+      </div>
       </section>
     </main>
   </body>

@@ -39,6 +39,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 ## Credits
 
 I took user story and acceptance criteria from [course](https://courses.bootcampspot.com/courses/3765/assignments/57201?module_item_id=1005764)
+i took coding from image shared from teacher [here](
 
 
 ## License
